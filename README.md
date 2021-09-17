@@ -1,1 +1,1 @@
-# QuaLIS_LIMS_Document
+Document Repository is used to maintain the Document related to the Automation script
